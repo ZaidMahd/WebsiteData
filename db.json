@@ -1,0 +1,93 @@
+{
+    "ThaneZone": [
+        {
+            "id": 1,
+            "Name": "ASHAR PULSE",
+            "Backend_Url": "https://sobolaunch.com/asharpulse/",
+            "Frondend_Url": "https://pulse-majiwada.netlify.app/"
+        },
+        {
+            "id": 2,
+            "Name": "ASHAR PULSE",
+            "Backend_Url": "https://sobolaunch.com/asharpulse/",
+            "Frondend_Url": "https://pulse-majiwada.netlify.app/"
+        }
+    ],
+
+
+
+
+
+
+
+    "CentralZone": [
+        {
+            "id": 3,
+            "Name": "ASHAR PULSE",
+            "Backend_Url": "https://sobolaunch.com/asharpulse/",
+            "Frondend_Url": "https://pulse-majiwada.netlify.app/"
+        },
+        {
+            "id": 4,
+            "Name": "ASHAR PULSE",
+            "Backend_Url": "https://sobolaunch.com/asharpulse/",
+            "Frondend_Url": "https://pulse-majiwada.netlify.app/"
+        }
+    ],
+    "WestenZone":[
+        {
+            "id": 3,
+            "Name": "ASHAR PULSE",
+            "Backend_Url": "https://sobolaunch.com/asharpulse/",
+            "Frondend_Url": "https://pulse-majiwada.netlify.app/"
+        },
+        {
+            "id": 4,
+            "Name": "ASHAR PULSE",
+            "Backend_Url": "https://sobolaunch.com/asharpulse/",
+            "Frondend_Url": "https://pulse-majiwada.netlify.app/"
+        }
+    ],
+    "SouthZone":[
+        {
+            "id": 3,
+            "Name": "ASHAR PULSE",
+            "Backend_Url": "https://sobolaunch.com/asharpulse/",
+            "Frondend_Url": "https://pulse-majiwada.netlify.app/"
+        },
+        {
+            "id": 4,
+            "Name": "ASHAR PULSE",
+            "Backend_Url": "https://sobolaunch.com/asharpulse/",
+            "Frondend_Url": "https://pulse-majiwada.netlify.app/"
+        }
+    ],
+    "PuneZone":[
+        {
+            "id": 3,
+            "Name": "ASHAR PULSE",
+            "Backend_Url": "https://sobolaunch.com/asharpulse/",
+            "Frondend_Url": "https://pulse-majiwada.netlify.app/"
+        },
+        {
+            "id": 4,
+            "Name": "ASHAR PULSE",
+            "Backend_Url": "https://sobolaunch.com/asharpulse/",
+            "Frondend_Url": "https://pulse-majiwada.netlify.app/"
+        }
+    ],
+    "NavimumbaiZone":[
+        {
+            "id": 3,
+            "Name": "ASHAR PULSE",
+            "Backend_Url": "https://sobolaunch.com/asharpulse/",
+            "Frondend_Url": "https://pulse-majiwada.netlify.app/"
+        },
+        {
+            "id": 4,
+            "Name": "ASHAR PULSE",
+            "Backend_Url": "https://sobolaunch.com/asharpulse/",
+            "Frondend_Url": "https://pulse-majiwada.netlify.app/"
+        }
+    ]
+}
