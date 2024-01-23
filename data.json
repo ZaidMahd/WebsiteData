@@ -1,11 +1,13 @@
 {
   "ThaneZone" :[
     {
+      "id":"1",
       "Name": "ParkCity",
       "Backend_Url": "https://sobolaunch.com/parkcity/",
       "Frondend_Url": "https://parkcity-thane.netlify.app/"
     },
     {
+       "id":"2",
       "Name": "Runwal Enchanted",
       "Backend_Url": "https://sobolaunch.com/runwalenchanted/",
       "Frondend_Url": "https://codename-enchanted.netlify.app/"
@@ -13,11 +15,13 @@
   ],
   "CentralZone" : [
     {
+       "id":"3",
       "Name": "ParkCity",
       "Backend_Url": "https://sobolaunch.com/parkcity/",
       "Frondend_Url": "https://parkcity-thane.netlify.app/"
     },
     {
+       "id":"4",
       "Name": "Runwal Enchanted",
       "Backend_Url": "https://sobolaunch.com/runwalenchanted/",
       "Frondend_Url": "https://codename-enchanted.netlify.app/"
